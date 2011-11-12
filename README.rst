@@ -5,3 +5,4 @@ A collection of software licenses
 * `BSD 2-Clause <http://en.wikipedia.org/wiki/BSD_licenses#2-clause_license_.28.22Simplified_BSD_License.22_or_.22FreeBSD_License.22.29>`_
 * `BSD 3-Clause <http://en.wikipedia.org/wiki/BSD_licenses#3-clause_license_.28.22New_BSD_License.22_or_.22Modified_BSD_License.22.29>`_
 * `GPL v3 <http://www.gnu.org/copyleft/gpl.html>`_
+* `LGPL v3 <http://www.gnu.org/copyleft/lgpl.html>`_
