@@ -8,3 +8,4 @@ A collection of software licenses
 * `LGPL v3 <http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License>`_
 * `AGPL v3 <http://en.wikipedia.org/wiki/GNU_Affero_General_Public_License>`_
 * `Apache License v2 <http://en.wikipedia.org/wiki/Apache_License>`_
+* `Unlicense <http://unlicense.org/>`_
